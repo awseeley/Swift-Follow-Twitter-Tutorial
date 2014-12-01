@@ -13,6 +13,7 @@
 		9475A0951A2C666100235023 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9475A0941A2C666100235023 /* Images.xcassets */; };
 		9475A0981A2C666100235023 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9475A0961A2C666100235023 /* LaunchScreen.xib */; };
 		9475A0A41A2C666100235023 /* OpenTwitterPageTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9475A0A31A2C666100235023 /* OpenTwitterPageTests.swift */; };
+		9475A0AE1A2C679F00235023 /* Seemu_Logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 9475A0AD1A2C679F00235023 /* Seemu_Logo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		9475A09D1A2C666100235023 /* OpenTwitterPageTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OpenTwitterPageTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9475A0A21A2C666100235023 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9475A0A31A2C666100235023 /* OpenTwitterPageTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenTwitterPageTests.swift; sourceTree = "<group>"; };
+		9475A0AD1A2C679F00235023 /* Seemu_Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Seemu_Logo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		9475A08A1A2C666100235023 /* OpenTwitterPage */ = {
 			isa = PBXGroup;
 			children = (
+				9475A0AD1A2C679F00235023 /* Seemu_Logo.png */,
 				9475A08D1A2C666100235023 /* AppDelegate.swift */,
 				9475A08F1A2C666100235023 /* ViewController.swift */,
 				9475A0911A2C666100235023 /* Main.storyboard */,
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9475A0AE1A2C679F00235023 /* Seemu_Logo.png in Resources */,
 				9475A0931A2C666100235023 /* Main.storyboard in Resources */,
 				9475A0981A2C666100235023 /* LaunchScreen.xib in Resources */,
 				9475A0951A2C666100235023 /* Images.xcassets in Resources */,
