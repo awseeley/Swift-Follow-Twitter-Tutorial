@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0A325068-5F1F-478B-A47A-1E0B8CFED83B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>OpenTwitterPage</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B5D96C0DFBB95B4C8C96BD05DFD425AC04A4D59E</key>
+		<string>https://github.com/awseeley/Swift-Follow-Twitter-Tutorial.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>OpenTwitterPage.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B5D96C0DFBB95B4C8C96BD05DFD425AC04A4D59E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/awseeley/Swift-Follow-Twitter-Tutorial.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B5D96C0DFBB95B4C8C96BD05DFD425AC04A4D59E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B5D96C0DFBB95B4C8C96BD05DFD425AC04A4D59E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OpenTwitterPage</string>
+		</dict>
+	</array>
+</dict>
+</plist>

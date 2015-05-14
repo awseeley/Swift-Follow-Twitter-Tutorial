@@ -20,8 +20,8 @@ class ViewController: UIViewController {
 
     @IBAction func openTwitterPage(sender: UIButton) {
         
-        var twUrl: NSURL = NSURL(string: "twitter://user?screen_name=SeemuApps")
-        var twUrlWeb: NSURL = NSURL(string: "https://twitter.com/SeemuApps")
+        var twUrl: NSURL = NSURL(string: "twitter://user?screen_name=SeemuApps")!
+        var twUrlWeb: NSURL = NSURL(string: "https://twitter.com/SeemuApps")!
         
         if(UIApplication.sharedApplication().canOpenURL(twUrl)) {
             // If user twitter installed
